@@ -5,26 +5,50 @@ body {
     height 200px;
     background-color: #51adb9;
     background-repeat: no-repeat;
-    background-image: url(../images/Pex2.jpeg);
+    background-image: url(../images/Pex2.jpg);
     
 
 }
+header{
+    color: azure;
+}
 .center{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%) ;
-    width: 300px ;
-    background: white;
-    border-radius: 10px;
+    width: 360px;
+    height: 320px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+}
+h1{
+    text-align: Center;
+    padding-top: 15px;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: aqua;
+}
+input[type=checkbox]{
+    width: 25px;
+    border: none;
 
-}
-.center h1{
-    text-align: center;
-    padding: 0 0 20px 0 ;
-    border-bottom: 1px solid black;
-}
-.center form{
-    padding: 0 40px;
-    box-sizing: border-box;
 }
