@@ -1,15 +1,26 @@
 body {
     margin: 0;
     font-family: system-ui;
-    background-color: rgb(69, 202, 75);
+    background-color: rgb(66, 70, 67);
 }
 .First {
-    background-color: rgb(60, 161, 51);
+    background-color: rgb(158, 180, 158);
 
     background-size: size;
     padding-top: 100px;
     padding-bottom: 100px;
-
-  
-
+}
+p{
+    color: rgb(209, 209, 209);
+    border: none;
+    outline: 0;
+    padding: 12px;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.con{
+    background-color: black;
 }
