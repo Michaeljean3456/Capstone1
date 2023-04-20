@@ -8,7 +8,7 @@ header{
 }
 .sign-up{
     width: 360px;
-    height: 420px;
+    height: 510px;
     margin: auto;
     background-color: white;
     border-radius: 3px;
@@ -44,11 +44,17 @@ input[type="button"]{
 .Radio{
     text-align: left;
     background-color: white;
-    width: 350px;
-
+    width: 400px;
+    margin-left: 10px;
+    height: 190px;
 
 }
 .con{
-   margin-left: 750px;
-   margin-top: 100px;
+    margin-left: 760px;
  }
+ .submit{
+    margin-left: 30px;
+ }
+ 
+    
+

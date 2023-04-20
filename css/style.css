@@ -1,14 +1,7 @@
 body {
     margin: 0;
     font-family: system-ui;
-    background-color: rgb(66, 70, 67);
-}
-.First {
-    background-color: rgb(158, 180, 158);
-
-    background-size: size;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    background-color: rgb(244, 252, 246);
 }
 p{
     color: rgb(209, 209, 209);
